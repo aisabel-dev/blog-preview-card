@@ -43,7 +43,7 @@ main{
 	max-width: 23.4375rem;
 	padding: 1.5rem;
 	border: 0.0625rem solid var(--dark);
-	box-shadow: 0.5rem 0.5rem 0rem var (--dark);
+	box-shadow: 0.5rem 0.5rem 0rem var(--dark);
 	
 }
 
@@ -76,7 +76,7 @@ p.categoria{
 .categoria{
 
 	
-	padding-block: 0.25;
+	padding-block: 0.25rem;
 	padding-inline: 0.85rem;
 	background: var(--yellow);
 	border-radius: 0.25rem;
@@ -98,8 +98,9 @@ p.categoria{
 
 	padding-block-start: 1.125rem;
 	padding-block-end: 1.375rem;
-	font-size: 1rem;
+	font-size: 0.80rem;
 	line-height: 1.5;
+	font-weight: 650;
 }
 
 .principal{
