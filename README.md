@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/TEU_USUARIO/blog-preview-card)
-- Live Site URL: [GitHub Pages](https://TEU_USUARIO.github.io/blog-preview-card)
+- Solution URL: [GitHub Repository] https://github.com/TEU_USUARIO/blog-preview-card
+- Live Site URL: [GitHub Pages] https://TEU_USUARIO.github.io/blog-preview-card
 
 ## My process
 
